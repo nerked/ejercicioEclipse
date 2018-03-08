@@ -6,6 +6,7 @@ public class Hola {
 		// TODO Auto-generated method stub
 		System.out.println("HOLA, que tal? Me has escuchado");
 		System.out.println("¿y tu?");
+		System.out.println("probando conflictos");
 	}
 
 }
